@@ -1,6 +1,6 @@
-# 🏦 CrediWise – Loan Approval Predictor
+# 🏦 CredWise – Loan Approval Predictor
 
-LoanVision is a Streamlit-based web application that predicts loan approval decisions using a trained Random Forest classifier.
+CredWise is a Streamlit-based web application that predicts loan approval decisions using a trained Random Forest classifier.
 
 ## 🔧 Features
 - Enter details like income, employment, credit history, etc.
